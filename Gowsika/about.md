@@ -1,2 +1,2 @@
-Hello 
-Arigatou gozaimasu
+Heloo
+Arigato gozaimasu
